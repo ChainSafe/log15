@@ -2,7 +2,7 @@ package ext
 
 import (
 	"errors"
-	log "github.com/inconshreveable/log15"
+	log "github.com/ChainSafe/log15"
 	"math"
 	"testing"
 )
